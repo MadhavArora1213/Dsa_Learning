@@ -10,5 +10,8 @@ public class Complexity {
         //         System.out.println("i: " + i + ", j: " + j);
         //     }
         // }
+
+        // Space Complexity of this is O(n)
+        int[] arr = new int[1000]; // O(n) space complexity
     }
 }
