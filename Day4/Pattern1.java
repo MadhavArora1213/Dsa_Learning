@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Pattern1 {
     public static void main(String[] args){
 
+        // Rectangular Star Pattern
 // This program prints a square pattern of stars with size n x n  (N-forest pattern)
         int n;
         Scanner sc = new Scanner(System.in);
