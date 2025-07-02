@@ -1,4 +1,4 @@
-
+// This program calculates the GCD of two numbers using the Euclidean algorithm
 public class GCD_USING_EUCLIDEAM_ALGO {
     public static void main(String[] args) {
         
